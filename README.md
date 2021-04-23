@@ -10,5 +10,4 @@
 
 If you want to make changes, you can change the email and password in the RabbitMQ.WordToPDF.Consumer / Program.cs file.<br/>
 <br/>
-<br/>
 Also, if you want to change "AMQP URL", you can make changes in RabbitMQ.WordToPDF.Producer / appsetting.json and RabbitMQ.WordToPDF.Consumer / Program.cs files.
